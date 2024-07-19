@@ -1,2 +1,5 @@
-Typescript Node Script Initializer:
-```npm create dtx-ts-node```
+##Typescript Node Script Initializer:
+
+```bash
+npm create dtx-ts-node
+```
